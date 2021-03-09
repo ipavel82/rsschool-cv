@@ -18,8 +18,6 @@
 ### Skills
 ![HTML5](https://img.icons8.com/color/30/000000/html-5.png) ![CSS3](https://img.icons8.com/color/30/000000/css3.png) ![JS](https://img.icons8.com/color/30/000000/javascript.png) ![Angular](https://img.icons8.com/color/30/000000/angularjs.png) ![React](https://img.icons8.com/color/30/000000/react-native.png) ![Node JS](https://img.icons8.com/color/30/000000/nodejs.png) ![Vue](https://img.icons8.com/color/30/000000/vue-js.png) ![Git](https://img.icons8.com/color/30/000000/git.png) ![Mysql](https://img.icons8.com/color/48/000000/mysql-logo.png) ![Web-components](https://img.icons8.com/color/30/000000/web-components.png) ![Npm](https://img.icons8.com/color/30/000000/npm.png)  ![Vscode](https://img.icons8.com/color/30/000000/visual-studio-code-2019.png)
 
-
-
 ***
 ### Code example
 ```javascript
