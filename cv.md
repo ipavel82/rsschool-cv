@@ -41,4 +41,4 @@ alert(message);
 ### Language Skills
 - **English**: A2+
 - **Russian**: Native
- ***
+***
